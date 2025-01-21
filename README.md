@@ -17,5 +17,3 @@ Atmosphere details: The sound of rain intensifies, with the soft splashes of dro
 ## 🚀 Resultados
 [Link](https://github.com/brunnocosta/study-lab-natty-or-not/blob/main/result.jpg)
 
-## 💭 Reflexão (Opcional)
-Este projeto foi uma experiência incrível em gerar imagens, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
